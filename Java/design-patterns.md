@@ -8,11 +8,34 @@
 
 ## Categories
 ### Creational Patterns 
-- Deals with ways of object creation
+- `Deals with ways of object creation`
+- Factory Method Pattern
+- Abstract Factory Pattern
+- Singleton Pattern
+- Prototype Pattern
+- Builder Pattern
+- Object Pool Pattern
 ### Structural Patterns
-- Deals with relationship between objects
+- `Deals with relationship between objects`
+- Adapter Pattern
+- Bridge Pattern
+- Composite Pattern
+- Decorator Pattern
+- Facade Pattern
+- Flyweight Pattern
+- proxy Pattern
 ### Behavioral Patterns 
-- Deals with interaction between objects
+- `Deals with interaction between objects`
+- Chain of Responsibility
+- Command Pattern
+- Interpreter Pattern
+- Iterator Pattern
+- Mediator Pattern
+- Memento Pattern
+- Observer Pattern
+- State Pattern
+- Strategy Pattern
+- Template Pattern
 
 ## Creational Pattern
 
